@@ -1,5 +1,5 @@
 --- 
-title: "Engaging Multiple Personalities"
+title: "Engaging Multiple Personalities Volume 4: The Collected Blog Posts."
 author: "David Yeung"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -9,6 +9,7 @@ biblio-style: apalike
 link-citations: yes
 description: "Engaging Multiple Personalities. Volume 4: The Collected Blog Posts."
 ---
+# Dedication
 
 Copyright © 2020
 by David Yeung
@@ -23,7 +24,6 @@ BISAC: Psychology / Psychopathology / Dissociative Identity Disorder
 >but
 >Heal the trauma.
 
-# Dedication
 
 This collection of the [Engagingmultiples.com/blog](https://www.engagingmultiples.com/blog/) posts is dedicated to the community of those with Dissociative Identity Disorder and their supporters, from whom I have learned so much.
 
