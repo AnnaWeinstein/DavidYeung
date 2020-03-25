@@ -4,7 +4,7 @@ bookdown::gitbook:
     toc:
       collapsed: section
       scroll_highlight: true
-      pre { white-space: normal; }
+      pre { white-space: pre-wrap; }
       before: |
         <li><a href="./">Engaging Multiple Personalities Volume 4</a></li>
       after: |
