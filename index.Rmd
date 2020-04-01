@@ -17,11 +17,14 @@ by David Yeung
 
 All rights reserved
 
-ISBN ???????
+ISBN 
 
 BISAC: Psychology / Psychopathology / Dissociative Identity Disorder
 
 
+# Dedication {-}
+
+This collection of the [Engagingmultiples.com/blog](https://www.engagingmultiples.com/blog/) posts is dedicated to the community of those with Dissociative Identity Disorder and their supporters, from whom I have learned so much.
 
 <center>
 >Acknowledge the drama 
@@ -31,9 +34,6 @@ BISAC: Psychology / Psychopathology / Dissociative Identity Disorder
 >Heal the trauma.
 </center>
 
-# Dedication {-}
-
-This collection of the [Engagingmultiples.com/blog](https://www.engagingmultiples.com/blog/) posts is dedicated to the community of those with Dissociative Identity Disorder and their supporters, from whom I have learned so much.
 
 # Warning {-}
 
