@@ -2,7 +2,7 @@ bookdown::gitbook:
   css: style.css
   config:
     toc:
-      collapsed: section
+      collapse: section
       scroll_highlight: true
       pre { white-space: pre-wrap; }
       before: |
