@@ -9,7 +9,11 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Engaging Multiple Personalities. Volume 4: The Collected Blog Posts."
+
 ---
+
+![](images/EMP cover_art_grayscale.jpg)
+
 # Copyright {-}
 
 Copyright © 2020
@@ -25,16 +29,24 @@ BISAC: Psychology / Psychopathology / Dissociative Identity Disorder
 # Dedication {-}
 
 This collection of the [Engagingmultiples.com/blog](https://www.engagingmultiples.com/blog/) posts is dedicated to the community of those with Dissociative Identity Disorder and their supporters, from whom I have learned so much.
-
+<br>
+<br>
 <center>
->Acknowledge the drama 
->
->but
->
->Heal the trauma.
+>To the color-blind, the rainbow is a fairy tale. To those who do not know how to truly listen, Dissociative Identity Disorder is another fairy tale. To have been able to engage my patients' rainbows of personalities, and treat them, is the great honor of my professional life.
 </center>
 
 
 # Warning {-}
 
 If you know or suspect that you have experienced childhood abuse, please make sure you have a good network of support to turn to when exploring such a past. Please stop and ask for help if you feel any emotional turmoil arising when reading this book. While every effort has been made to omit materials that might trigger traumatic memory, the best protection is to have the support of a competent therapist to help process any such turmoil. 
+
+
+# Preface {-}
+
+Since the publication of Volume One of the Engaging Multiple Personalities Series, I have put up many blog posts. Some are in response to questions from readers, some in response to questions from members of different Facebook groups focused on the DID community. Several of the posts have been included in some way or another in Volumes Two and Three.
+
+My blog is a free resource available at [engagingmultiples.com/blog](https://www.engagingmultiples.com/blog/). However, it is sometimes difficult to find what one is looking for within the several years of posts.
+
+In order to try to make the material accessible to all those in the DID community, both diagnosed individuals and their support network, all the blog posts have been compiled into this single volume. The Table of Contents lists all of the posts, which have been grouped in different categories. This Volume 4 is downloadable for free as an ebook or pdf at ????????. It is available in print through Amazon at cost.
+
+It is my hope that in publishing the blog material in this way, the approach that arose as a result of the hard work of my patients on their healing journeys reaches out further to benefit an ever wider audience of those in need.
