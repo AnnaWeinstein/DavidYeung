@@ -12,7 +12,7 @@ description: "Engaging Multiple Personalities. Volume 4: The Collected Blog Post
 
 ---
 
-![](images/EMP cover_art_grayscale.jpg)
+![](images/Cover-Image-Volume-4.jpg)
 
 # Copyright {-}
 
@@ -21,7 +21,7 @@ by David Yeung
 
 All rights reserved
 
-ISBN 
+ISBN: 9798628359129
 
 BISAC: Psychology / Psychopathology / Dissociative Identity Disorder
 
