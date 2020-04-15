@@ -5,6 +5,7 @@ author: "David Yeung"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
+geometry: paperheight=9in,paperwidth=6in,margin=1in
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
