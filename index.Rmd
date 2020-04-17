@@ -10,10 +10,9 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "Engaging Multiple Personalities. Volume 4: The Collected Blog Posts."
+cover-image: images/Cover-Image-Volume-4.jpg
 
 ---
-
-![](images/Cover-Image-Volume-4.jpg)
 
 # Copyright {-}
 

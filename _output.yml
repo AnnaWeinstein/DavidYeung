@@ -8,7 +8,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Engaging Multiple Personalities Volume 4</a></li>
       after: |
-        <li><a href="https://www.engagingmultiples.com/blog/" target="blank">Published with bookdown</a></li>
+        <li><a href="https://www.engagingmultiples.com/blog/" target="blank">Visit the website</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
