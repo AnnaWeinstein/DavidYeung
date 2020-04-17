@@ -1,7 +1,8 @@
-book_filename: "Engaging Multiple Personalities Volume 4"
+book_filename: "Engaging-Multiple-Personalities-Volume-4"
 output: pdf_document
 geometry: paperheight=9in,paperwidth=6in,margin=1in
 delete_merged_file: true
 language:
   ui:
     chapter_name: ""
+epub:cover-image: images/Cover-Image-Volume-4.jpg
