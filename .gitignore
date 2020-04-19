@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 
-_book/
+_book/*
+!/_book/Engaging-Multiple-Personalities-Volume-4.epub
