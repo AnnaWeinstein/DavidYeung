@@ -5,3 +5,5 @@
 
 _book/*
 !/_book/Engaging-Multiple-Personalities-Volume-4.epub
+
+.DS_Store
